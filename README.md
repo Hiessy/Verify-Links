@@ -64,6 +64,3 @@ If you encounter any issues or errors while using the script, make sure you have
 ## Disclaimer
 
 This script provides a basic method for checking broken links on a website. It may not cover all possible scenarios, and the accuracy of the results depends on the website's structure and the availability of linked resources.
-```
-
-You can copy and paste this markdown text into your README.md file or any markdown-compatible platform.
